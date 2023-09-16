@@ -7,6 +7,7 @@ class Heroi {
         this.idade = idade;
         this.tipo = tipo;
     }
+// Estrutura de decisão
 
     atacar() {
         let ataque;
